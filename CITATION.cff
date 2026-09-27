@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Model-Guided Biochar Fertiliser Formulation Dashboard
+message: If you use this software, please cite it using this metadata.
+type: software
+authors:
+  - family-names: Tiwari
+    given-names: Rishabh
+version: 1.0.0
+date-released: 2026-09-27
+license: MIT
